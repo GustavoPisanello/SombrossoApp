@@ -3,7 +3,7 @@
     <string name="app_name">Sombrosso</string>
     <string name="_0">0 %</string>
     <string name="todo">TODO</string>
-    <string name="direitos">Copyright © 2022 - Alexandre e Débora - Todos os Direitos Reservados</string>
+    <string name="direitos">Copyright © 2022 - Alexandre e Gustavo Laur - Todos os Direitos Reservados</string>
     <string name="trailer">TRAILER</string>
 
     //Activity_Menu
@@ -22,7 +22,19 @@
     <string name="ConfigTitulo">Configurações </string>
     <string name="ConfigTitulo1">Gerais</string>
     <string name="ModoExibicao">Dark Mode</string>
+    <string name="Cadastro">Cadastre-se</string>
 
+
+    // Activity Cadastro/Login
+    <string name="NomeUsu">Nome: </string>
+    <string name="SenhaUsu">Senha: </string>
+    <string name="RepSenhaUsu">Repita a Senha: </string>
+    <string name="Login">Login</string>
+    <string name="textoLogin">Já tem uma conta? Faça Aqui seu Login: </string>
+    <string name="textoCad"> Não tem uma conta? Faça Aqui seu cadastro: </string>
+    <string name="InstruNome">Digite seu Nome: </string>
+    <string name="InstruSenha">Digite sua Senha: </string>
+    <string name="InstruRepSenha">Digite sua Senha novamente: </string>
 
     //Activity_Livros-LinkAmazon
     <string name="aqquira">Adquira seu livro aqui</string>
