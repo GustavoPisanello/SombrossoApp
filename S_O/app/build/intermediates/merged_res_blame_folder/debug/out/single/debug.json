@@ -1,0 +1,510 @@
+[
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-xxxhdpi_ic_icone.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-xxxhdpi\\ic_icone.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_capa_5.jpg.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\capa_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_poder.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_poder.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_reinos.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_reinos.xml"
+    },
+    {
+        "merged": "com.sombrosso.app-merged_res-9:/layout_activity_login.xml.flat",
+        "source": "com.sombrosso.app-main-11:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-xhdpi_ic_icone_round.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-xhdpi\\ic_icone_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_menudou.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_menudou.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_sombras.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\sombras.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_configuracoes.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\configuracoes.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_cadastro.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_cadastro.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_conju_sol.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\conju_sol.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_inte.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\inte.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_curio.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_curio.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_localizacao.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_localizacao.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_capa_7.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\capa_7.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-mdpi_ic_icone_foreground.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-mdpi\\ic_icone_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-hdpi_ic_icone_round.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-hdpi\\ic_icone_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_bussola.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_bussola.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_atores.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_atores.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_livro_1.jpg.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\livro_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_menud.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_menud.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_mago.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\mago.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_curiosidade.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_curiosidade.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_gall.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\gall.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_bussola.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_bussola.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_menub.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_menub.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-anydpi-v26_ic_icone_round.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-anydpi-v26\\ic_icone_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_archie.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\archie.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_curiosidade.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\curiosidade.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_luz.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\luz.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_magia.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\magia.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_castle.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_castle.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-xhdpi_ic_icone.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-xhdpi\\ic_icone.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_configuracoes.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_configuracoes.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_capa_3.jpg.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\capa_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_sem_poder.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\sem_poder.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_ofc.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\ofc.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_shu.jpg.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\shu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_mpa2.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\mpa2.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_configuracoes1.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\configuracoes1.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-xxhdpi_ic_icone_round.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-xxhdpi\\ic_icone_round.png"
+    },
+    {
+        "merged": "com.sombrosso.app-merged_res-9:/layout_activity_config.xml.flat",
+        "source": "com.sombrosso.app-main-11:/layout/activity_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-hdpi_ic_icone_foreground.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-hdpi\\ic_icone_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_livro_2.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\livro_2.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_corvo.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\corvo.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_hidros.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\hidros.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_cervo.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\cervo.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_bussola.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\bussola.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_ravka.jpg.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\ravka.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\anim_rotate.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-xxhdpi_ic_icone.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-xxhdpi\\ic_icone.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_inicio.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_cervin.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\cervin.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_menup.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_menup.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_galhu.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\galhu.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_ben.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\ben.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_conju_sombra.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\conju_sombra.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_capa_6.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\capa_6.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_alfaiate.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\alfaiate.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_aeros.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\aeros.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_amita.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\amita.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_poder.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_poder.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_livro_3.jpg.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\livro_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_local.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_local.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_kerch.jpg.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\kerch.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_atores.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_atores.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_capa_1.jpg.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\capa_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_kirigan2.gif.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\kirigan2.gif"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_curandeiro.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\curandeiro.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_alina2.gif.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\alina2.gif"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_reinos.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_reinos.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_inte3.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\inte3.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-pngs-4:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-xhdpi_ic_icone_foreground.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-xhdpi\\ic_icone_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_alquimistas.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\alquimistas.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_fogo.gif.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\fogo.gif"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_book.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_gps.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_gps.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-mdpi_ic_icone.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-mdpi\\ic_icone.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_div.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_div.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_fjerda.jpg.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\fjerda.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_jess.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\jess.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_config.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-xxxhdpi_ic_icone_foreground.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-xxxhdpi\\ic_icone_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_inte2.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\inte2.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_procurar.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_procurar.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_inicio.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_sangrador.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\sangrador.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-anydpi-v26_ic_icone.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-anydpi-v26\\ic_icone.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_capa_2.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\capa_2.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_escuro_poder.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\escuro_poder.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_durastes.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\durastes.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_play2.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_play2.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_book.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_wandering.jpg.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\wandering.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_mpa.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\mpa.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-mdpi_ic_icone_round.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-mdpi\\ic_icone_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-xxxhdpi_ic_icone_round.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-xxxhdpi\\ic_icone_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_capa_4.jpg.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\capa_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_loci.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_loci.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-hdpi_ic_icone.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-hdpi\\ic_icone.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_novyi.jpg.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\novyi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\layout_activity_teste.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\layout\\activity_teste.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_power.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_power.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_sol_poder.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\sol_poder.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_autora.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\autora.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_ic_explorar.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\ic_explorar.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_no_poder.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\no_poder.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_alina.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\alina.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable_chifres.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable\\chifres.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_infernais.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\infernais.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_foto.jpeg.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\foto.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\mipmap-xxhdpi_ic_icone_foreground.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\mipmap-xxhdpi\\ic_icone_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-merged_res-9:\\drawable-v24_carter.png.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\7.4\\com.sombrosso.app-main-11:\\drawable-v24\\carter.png"
+    }
+]
