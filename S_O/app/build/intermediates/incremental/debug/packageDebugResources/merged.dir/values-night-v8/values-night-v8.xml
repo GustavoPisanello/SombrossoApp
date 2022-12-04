@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BOTAO">
+        <item name="android:textColor">#FFF</item>
+        <item name="android:background">#232323</item>
+    </style>
+    <style name="TELA">
+        <item name="android:background">#232323</item>
+    </style>
+    <style name="TEXTO">
+        <item name="android:textColor">#FFF</item>
+    </style>
+    <style name="Theme.Sombrosso" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        
+    </style>
+</resources>
